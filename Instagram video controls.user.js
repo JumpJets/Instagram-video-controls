@@ -10,9 +10,9 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
+	'use strict';
 
-    var customcss = document.createElement("style");
+	var customcss = document.createElement("style");
 	customcss.innerHTML = "._7thjo, ._j12ff { display: none !important; }";
 	document.body.appendChild(customcss);
 	var videoplayer = document.getElementsByTagName("video")[0];
