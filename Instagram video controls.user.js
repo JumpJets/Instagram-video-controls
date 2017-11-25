@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Instagram video controls
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/JumpJets/Instagram-video-controls
 // @version      1.0
 // @icon         https://www.instagram.com/static/images/ico/favicon-192.png/b407fa101800.png
 // @description  Add controls to the video
